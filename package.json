@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jasmine-ts --config=jasmine.json",
     "start": "ts-node ./src/index.ts",
-    "day1": "ts-node ./src/day1/runDay1.ts"
+    "day1": "ts-node ./src/day1/runDay1.ts",
+    "day2": "ts-node ./src/day2/runDay2.ts"
   },
   "repository": {
     "type": "git",
