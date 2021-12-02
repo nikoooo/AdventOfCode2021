@@ -1,5 +1,4 @@
 import "jasmine";
-import { myFunctionReturnsTwo } from "../src";
 
 describe("The value of true", function() {
   let a: boolean = false;
