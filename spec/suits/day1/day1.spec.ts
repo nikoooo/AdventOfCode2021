@@ -1,4 +1,4 @@
-import { day1Input } from "../../../src/day1/input/day1";
+import { day1Input } from "../../../inputs/day1";
 
 describe("Day1 values", function() {
   it("contains only non NaN numbers", function() {

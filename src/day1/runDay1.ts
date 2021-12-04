@@ -1,6 +1,6 @@
 import { day1DepthIncreases } from "./Day1CountIncrease";
 import { day1Step2DepthIncreases } from "./Day1-2CountIncrease";
-import { day1Input } from "./input/day1";
+import { day1Input } from "../../inputs/day1";
 
 
 console.log(`Day1 answer: ${day1DepthIncreases(day1Input)} increases.`);
