@@ -5,9 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "jasmine-ts --config=jasmine.json",
+    "testDay3": "jasmine-ts --config=jasmine.json \"**/day3/**/*.spec.ts\"",
     "start": "ts-node ./src/index.ts",
     "day1": "ts-node ./src/day1/runDay1.ts",
-    "day2": "ts-node ./src/day2/runDay2.ts"
+    "day2": "ts-node ./src/day2/runDay2.ts",
+    "day3": "ts-node ./src/day3/runDay3.ts"
   },
   "repository": {
     "type": "git",

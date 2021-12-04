@@ -1,5 +1,5 @@
 import { day1DepthIncreases } from "../../../src/day1/Day1CountIncrease";
-import { day1ExampleValues } from "../../../src/day1/input/day1example";
+import { day1ExampleValues } from "../../inputs/day1example";
 
 describe("Day1 example values", function() {
   it("contains only non NaN numbers", function() {
